@@ -6,6 +6,8 @@ Antes de comenzar, recuerda consultar la imagen de SonarQube oficial: [https://h
 
 Aquí puedes consultar la versión que necesitas para acceder al github y obtener los archivos `Dockerfile` y `entrypoint.sh`.
 
+- ***Repositorio: [SonarQube:9.9.5.90363](https://github.com/SonarSource/docker-sonarqube/tree/8fa48b406ab00c6c773b60cf213b39718984e3c4/9/community)***
+
 ## Configuración Docker - SonarQube
 Dentro de este directorio continua con las siguientes instrucciones:
 - Correr en terminal la siguiente línea:

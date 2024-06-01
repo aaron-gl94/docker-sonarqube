@@ -1,5 +1,7 @@
+# Docker - SonarQube
+Guía para crear contenedor con SonarQube.
 
-# Docker Hub
+## Docker Hub
 Antes de comenzar, recuerda consultar la imagen de SonarQube oficial: [https://hub.docker.com/_/sonarqube](https://hub.docker.com/_/sonarqube).
 
 Aquí puedes consultar la versión que necesitas para acceder al github y obtener los archivos `Dockerfile` y `entrypoint.sh`.
